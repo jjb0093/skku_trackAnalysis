@@ -1,0 +1,1 @@
+{"data": {"uuid": "5cfa4266-286d-1234-6d72-af12b8b9680e", "name": "BAEKMA NO.3", "mmsi": "440338470", "imo": null, "eni": null, "country_iso": "KR", "type": "Fishing", "type_specific": "Fishing", "positions": []}, "meta": {"duration": 0.004678503, "endpoint": "/api/v0/vessel_history", "success": true}}
