@@ -20,7 +20,7 @@ import os
 for i in range(20, len(shipList)):
     print(shipList[i][0])
     for k in range(len(dateList)):
-        requestURL = "https://api.datalastic.com/api/v0/vessel_history?api-key=6ae269cf-c9d8-4813-bd0b-6931a169f0a2&mmsi="
+        requestURL = "https://api.datalastic.com/api/v0/vessel_history?api-key=#&mmsi="
         requestURL += str(shipList[i][0])+"&from="+str(dateList[k][0])+"&to="+str(dateList[k][1])
         
         r = requests.get(url = requestURL)
