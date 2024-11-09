@@ -1,0 +1,1 @@
+{"data": {"uuid": "27f7118b-fa22-b073-77f2-db0a471d3942", "name": "WIFIHO", "mmsi": "440000260", "imo": null, "eni": null, "country_iso": "KR", "type": "Fishing", "type_specific": "Fishing", "positions": []}, "meta": {"duration": 0.00416086, "endpoint": "/api/v0/vessel_history", "success": true}}

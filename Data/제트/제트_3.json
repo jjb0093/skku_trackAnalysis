@@ -1,0 +1,1 @@
+{"data": {"uuid": "d3c80f67-fb24-ccea-adcf-f3924679930e", "name": "ZET HO", "mmsi": "440017830", "imo": null, "eni": null, "country_iso": "KR", "type": "Fishing", "type_specific": "Fishing", "positions": []}, "meta": {"duration": 0.001717129, "endpoint": "/api/v0/vessel_history", "success": true}}
