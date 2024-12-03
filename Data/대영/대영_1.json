@@ -1,1 +1,0 @@
-{"data": {"uuid": "16f4792e-a3a6-d4e3-8ae0-85a2418fe87f", "name": "DAE YOUNG", "mmsi": "440023530", "imo": null, "eni": null, "country_iso": "KR", "type": "Fishing", "type_specific": "Fishing", "positions": []}, "meta": {"duration": 0.002247292, "endpoint": "/api/v0/vessel_history", "success": true}}

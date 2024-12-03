@@ -1,1 +1,0 @@
-{"data": {"uuid": "1f5874eb-ad47-5032-86f1-bee612d03a52", "name": "JE 101 YOO IL HO", "mmsi": "440002820", "imo": null, "eni": null, "country_iso": "KR", "type": "Fishing", "type_specific": "Fishing", "positions": []}, "meta": {"duration": 0.003686499, "endpoint": "/api/v0/vessel_history", "success": true}}

@@ -1,1 +1,0 @@
-{"data": {"uuid": "671c6109-0f5e-16e2-685f-b7e065254aef", "name": "JE7 HAEYOUNG HO", "mmsi": "440020940", "imo": null, "eni": null, "country_iso": "KR", "type": "Fishing", "type_specific": "Fishing", "positions": []}, "meta": {"duration": 0.001842769, "endpoint": "/api/v0/vessel_history", "success": true}}

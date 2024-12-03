@@ -1,1 +1,0 @@
-{"data": {"uuid": "fd2f5225-6707-3b63-5b9b-058e898172b6", "name": "13HAN GANG", "mmsi": "440000457", "imo": null, "eni": null, "country_iso": "KR", "type": "Fishing", "type_specific": "Fishing", "positions": []}, "meta": {"duration": 0.001328206, "endpoint": "/api/v0/vessel_history", "success": true}}

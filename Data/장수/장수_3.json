@@ -1,1 +1,0 @@
-{"data": {"uuid": "566a1515-0525-e72f-bc1e-2fe6df842e3c", "name": "JANGSU", "mmsi": "440005050", "imo": null, "eni": null, "country_iso": "KR", "type": "Fishing", "type_specific": "Fishing", "positions": []}, "meta": {"duration": 0.002307611, "endpoint": "/api/v0/vessel_history", "success": true}}

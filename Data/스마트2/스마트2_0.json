@@ -1,1 +1,0 @@
-{"data": {"uuid": "38c53337-9645-0cab-fa01-649f4ab4fbc0", "name": "SMART NO.2", "mmsi": "440220510", "imo": null, "eni": null, "country_iso": "KR", "type": "Fishing", "type_specific": "Fishing", "positions": []}, "meta": {"duration": 0.007046475, "endpoint": "/api/v0/vessel_history", "success": true}}
