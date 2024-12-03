@@ -7,12 +7,10 @@ def getDistance(lat1, lat2, lon1, lon2):
     dlat = lat2 - lat1
     dlon = lon2 - lon1
     
-    # 하버사인 공식
     a = math.sin(dlat / 2)**2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon / 2)**2
     c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
-    R = 6371  # 지구 반지름 (km)
+    R = 6371
     
-    # 두 점 사이의 거리 계산
     distance = R * c
     return distance
 
