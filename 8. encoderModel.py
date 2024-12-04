@@ -6,7 +6,7 @@ from tensorflow.keras.layers import Dense, Input
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv("/content/drive/MyDrive/기계학습입문_선박데이터/result.csv").fillna(0)
+df = pd.read_csv("기말과제/encoding/result.csv").fillna(0)
 
 scaler = StandardScaler()
 data = scaler.fit_transform(df)
