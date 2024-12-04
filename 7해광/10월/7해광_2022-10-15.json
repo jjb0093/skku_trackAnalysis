@@ -1,0 +1,4899 @@
+{
+    "data": {
+        "uuid": "447e8af2-c37e-7363-b606-52afebe8c883",
+        "name": "7 HAE GWANG",
+        "mmsi": "440020130",
+        "imo": null,
+        "eni": null,
+        "country_iso": "KR",
+        "type": "Fishing",
+        "type_specific": "Fishing",
+        "positions": [
+            {
+                "lat": 37.30928,
+                "lon": 125.8611,
+                "speed": 9.4,
+                "course": 266,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665862080,
+                "last_position_UTC": "2022-10-15T19:28:00Z"
+            },
+            {
+                "lat": 37.30924499999988,
+                "lon": 125.86500526315808,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:26:00Z"
+            },
+            {
+                "lat": 37.30920999999989,
+                "lon": 125.86891052631597,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:25:00Z"
+            },
+            {
+                "lat": 37.30917499999989,
+                "lon": 125.87281578947386,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:24:00Z"
+            },
+            {
+                "lat": 37.30913999999989,
+                "lon": 125.87672105263175,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:23:00Z"
+            },
+            {
+                "lat": 37.309104999999896,
+                "lon": 125.88062631578964,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:22:00Z"
+            },
+            {
+                "lat": 37.3090699999999,
+                "lon": 125.88453157894753,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:21:00Z"
+            },
+            {
+                "lat": 37.3090349999999,
+                "lon": 125.88843684210542,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:20:00Z"
+            },
+            {
+                "lat": 37.308999999999905,
+                "lon": 125.89234210526331,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:19:00Z"
+            },
+            {
+                "lat": 37.30896499999991,
+                "lon": 125.8962473684212,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:18:00Z"
+            },
+            {
+                "lat": 37.30892999999991,
+                "lon": 125.90015263157909,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:17:00Z"
+            },
+            {
+                "lat": 37.308894999999914,
+                "lon": 125.90405789473698,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:16:00Z"
+            },
+            {
+                "lat": 37.30885999999992,
+                "lon": 125.90796315789487,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:15:00Z"
+            },
+            {
+                "lat": 37.30882499999992,
+                "lon": 125.91186842105276,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:14:00Z"
+            },
+            {
+                "lat": 37.308789999999924,
+                "lon": 125.91577368421065,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:13:00Z"
+            },
+            {
+                "lat": 37.30875499999993,
+                "lon": 125.91967894736854,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:12:00Z"
+            },
+            {
+                "lat": 37.30871999999993,
+                "lon": 125.92358421052643,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:11:00Z"
+            },
+            {
+                "lat": 37.30868499999993,
+                "lon": 125.92748947368432,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:10:00Z"
+            },
+            {
+                "lat": 37.308649999999936,
+                "lon": 125.93139473684221,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:09:00Z"
+            },
+            {
+                "lat": 37.30861499999994,
+                "lon": 125.9353000000001,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:08:00Z"
+            },
+            {
+                "lat": 37.30857999999994,
+                "lon": 125.93920526315799,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:07:00Z"
+            },
+            {
+                "lat": 37.308544999999945,
+                "lon": 125.94311052631588,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:06:00Z"
+            },
+            {
+                "lat": 37.30850999999995,
+                "lon": 125.94701578947377,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:05:00Z"
+            },
+            {
+                "lat": 37.30847499999995,
+                "lon": 125.95092105263166,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:04:00Z"
+            },
+            {
+                "lat": 37.308439999999955,
+                "lon": 125.95482631578955,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:03:00Z"
+            },
+            {
+                "lat": 37.30840499999996,
+                "lon": 125.95873157894744,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:02:00Z"
+            },
+            {
+                "lat": 37.30836999999996,
+                "lon": 125.96263684210533,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:01:00Z"
+            },
+            {
+                "lat": 37.308334999999964,
+                "lon": 125.96654210526322,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T19:00:00Z"
+            },
+            {
+                "lat": 37.30829999999997,
+                "lon": 125.9704473684211,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:59:00Z"
+            },
+            {
+                "lat": 37.30826499999997,
+                "lon": 125.974352631579,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:58:00Z"
+            },
+            {
+                "lat": 37.30822999999997,
+                "lon": 125.97825789473688,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:57:00Z"
+            },
+            {
+                "lat": 37.30819499999998,
+                "lon": 125.98216315789477,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:56:00Z"
+            },
+            {
+                "lat": 37.30815999999998,
+                "lon": 125.98606842105266,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:55:00Z"
+            },
+            {
+                "lat": 37.30812499999998,
+                "lon": 125.98997368421055,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:54:00Z"
+            },
+            {
+                "lat": 37.308089999999986,
+                "lon": 125.99387894736844,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:53:00Z"
+            },
+            {
+                "lat": 37.30805499999999,
+                "lon": 125.99778421052633,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:52:00Z"
+            },
+            {
+                "lat": 37.30801999999999,
+                "lon": 126.00168947368422,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:51:00Z"
+            },
+            {
+                "lat": 37.307984999999995,
+                "lon": 126.00559473684211,
+                "speed": 10.1,
+                "course": 268,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:50:00Z"
+            },
+            {
+                "lat": 37.30795,
+                "lon": 126.0095,
+                "speed": 10.1,
+                "course": 268,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665859740,
+                "last_position_UTC": "2022-10-15T18:49:00Z"
+            },
+            {
+                "lat": 37.308302857142834,
+                "lon": 126.01330000000013,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:47:00Z"
+            },
+            {
+                "lat": 37.30865571428569,
+                "lon": 126.01710000000013,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:46:00Z"
+            },
+            {
+                "lat": 37.30900857142855,
+                "lon": 126.02090000000013,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:45:00Z"
+            },
+            {
+                "lat": 37.30936142857141,
+                "lon": 126.02470000000012,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:44:00Z"
+            },
+            {
+                "lat": 37.309714285714264,
+                "lon": 126.02850000000012,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:43:00Z"
+            },
+            {
+                "lat": 37.31006714285712,
+                "lon": 126.03230000000012,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:42:00Z"
+            },
+            {
+                "lat": 37.31041999999998,
+                "lon": 126.03610000000012,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:41:00Z"
+            },
+            {
+                "lat": 37.31077285714284,
+                "lon": 126.03990000000012,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:40:00Z"
+            },
+            {
+                "lat": 37.311125714285694,
+                "lon": 126.04370000000011,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:39:00Z"
+            },
+            {
+                "lat": 37.31147857142855,
+                "lon": 126.04750000000011,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:38:00Z"
+            },
+            {
+                "lat": 37.31183142857141,
+                "lon": 126.05130000000011,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:37:00Z"
+            },
+            {
+                "lat": 37.31218428571427,
+                "lon": 126.05510000000011,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:36:00Z"
+            },
+            {
+                "lat": 37.312537142857124,
+                "lon": 126.05890000000011,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:35:00Z"
+            },
+            {
+                "lat": 37.31288999999998,
+                "lon": 126.0627000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:34:00Z"
+            },
+            {
+                "lat": 37.31324285714284,
+                "lon": 126.0665000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:33:00Z"
+            },
+            {
+                "lat": 37.3135957142857,
+                "lon": 126.0703000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:32:00Z"
+            },
+            {
+                "lat": 37.313948571428554,
+                "lon": 126.0741000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:31:00Z"
+            },
+            {
+                "lat": 37.31430142857141,
+                "lon": 126.0779000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:30:00Z"
+            },
+            {
+                "lat": 37.31465428571427,
+                "lon": 126.0817000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:29:00Z"
+            },
+            {
+                "lat": 37.31500714285713,
+                "lon": 126.0855000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:28:00Z"
+            },
+            {
+                "lat": 37.315359999999984,
+                "lon": 126.0893000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:27:00Z"
+            },
+            {
+                "lat": 37.31571285714284,
+                "lon": 126.09310000000009,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:26:00Z"
+            },
+            {
+                "lat": 37.3160657142857,
+                "lon": 126.09690000000009,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:25:00Z"
+            },
+            {
+                "lat": 37.31641857142856,
+                "lon": 126.10070000000009,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:24:00Z"
+            },
+            {
+                "lat": 37.316771428571414,
+                "lon": 126.10450000000009,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:23:00Z"
+            },
+            {
+                "lat": 37.31712428571427,
+                "lon": 126.10830000000009,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:22:00Z"
+            },
+            {
+                "lat": 37.31747714285713,
+                "lon": 126.11210000000008,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:21:00Z"
+            },
+            {
+                "lat": 37.31782999999999,
+                "lon": 126.11590000000008,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:20:00Z"
+            },
+            {
+                "lat": 37.318182857142844,
+                "lon": 126.11970000000008,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:19:00Z"
+            },
+            {
+                "lat": 37.3185357142857,
+                "lon": 126.12350000000008,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:18:00Z"
+            },
+            {
+                "lat": 37.31888857142856,
+                "lon": 126.12730000000008,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:17:00Z"
+            },
+            {
+                "lat": 37.31924142857142,
+                "lon": 126.13110000000007,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:16:00Z"
+            },
+            {
+                "lat": 37.319594285714274,
+                "lon": 126.13490000000007,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:15:00Z"
+            },
+            {
+                "lat": 37.31994714285713,
+                "lon": 126.13870000000007,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:14:00Z"
+            },
+            {
+                "lat": 37.32029999999999,
+                "lon": 126.14250000000007,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:13:00Z"
+            },
+            {
+                "lat": 37.320652857142846,
+                "lon": 126.14630000000007,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:12:00Z"
+            },
+            {
+                "lat": 37.321005714285704,
+                "lon": 126.15010000000007,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:11:00Z"
+            },
+            {
+                "lat": 37.32135857142856,
+                "lon": 126.15390000000006,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:10:00Z"
+            },
+            {
+                "lat": 37.32171142857142,
+                "lon": 126.15770000000006,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:09:00Z"
+            },
+            {
+                "lat": 37.322064285714276,
+                "lon": 126.16150000000006,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:08:00Z"
+            },
+            {
+                "lat": 37.322417142857134,
+                "lon": 126.16530000000006,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:07:00Z"
+            },
+            {
+                "lat": 37.32276999999999,
+                "lon": 126.16910000000006,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:06:00Z"
+            },
+            {
+                "lat": 37.32312285714285,
+                "lon": 126.17290000000006,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:05:00Z"
+            },
+            {
+                "lat": 37.323475714285706,
+                "lon": 126.17670000000005,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:04:00Z"
+            },
+            {
+                "lat": 37.323828571428564,
+                "lon": 126.18050000000005,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:03:00Z"
+            },
+            {
+                "lat": 37.32418142857142,
+                "lon": 126.18430000000005,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:02:00Z"
+            },
+            {
+                "lat": 37.32453428571428,
+                "lon": 126.18810000000005,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:01:00Z"
+            },
+            {
+                "lat": 37.324887142857136,
+                "lon": 126.19190000000005,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T18:00:00Z"
+            },
+            {
+                "lat": 37.325239999999994,
+                "lon": 126.19570000000004,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:59:00Z"
+            },
+            {
+                "lat": 37.32559285714285,
+                "lon": 126.19950000000004,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:58:00Z"
+            },
+            {
+                "lat": 37.32594571428571,
+                "lon": 126.20330000000004,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:57:00Z"
+            },
+            {
+                "lat": 37.326298571428566,
+                "lon": 126.20710000000004,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:56:00Z"
+            },
+            {
+                "lat": 37.326651428571424,
+                "lon": 126.21090000000004,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:55:00Z"
+            },
+            {
+                "lat": 37.32700428571428,
+                "lon": 126.21470000000004,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:54:00Z"
+            },
+            {
+                "lat": 37.32735714285714,
+                "lon": 126.21850000000003,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:53:00Z"
+            },
+            {
+                "lat": 37.327709999999996,
+                "lon": 126.22230000000003,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:52:00Z"
+            },
+            {
+                "lat": 37.328062857142854,
+                "lon": 126.22610000000003,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:51:00Z"
+            },
+            {
+                "lat": 37.32841571428571,
+                "lon": 126.22990000000003,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:50:00Z"
+            },
+            {
+                "lat": 37.32876857142857,
+                "lon": 126.23370000000003,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:49:00Z"
+            },
+            {
+                "lat": 37.329121428571426,
+                "lon": 126.23750000000003,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:48:00Z"
+            },
+            {
+                "lat": 37.329474285714284,
+                "lon": 126.24130000000002,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:47:00Z"
+            },
+            {
+                "lat": 37.32982714285714,
+                "lon": 126.24510000000002,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:46:00Z"
+            },
+            {
+                "lat": 37.33018,
+                "lon": 126.24890000000002,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:45:00Z"
+            },
+            {
+                "lat": 37.330532857142856,
+                "lon": 126.25270000000002,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:44:00Z"
+            },
+            {
+                "lat": 37.330885714285714,
+                "lon": 126.25650000000002,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:43:00Z"
+            },
+            {
+                "lat": 37.33123857142857,
+                "lon": 126.26030000000002,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:42:00Z"
+            },
+            {
+                "lat": 37.33159142857143,
+                "lon": 126.26410000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:41:00Z"
+            },
+            {
+                "lat": 37.331944285714286,
+                "lon": 126.26790000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:40:00Z"
+            },
+            {
+                "lat": 37.33229714285714,
+                "lon": 126.27170000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:39:00Z"
+            },
+            {
+                "lat": 37.33265,
+                "lon": 126.27550000000001,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:38:00Z"
+            },
+            {
+                "lat": 37.33300285714286,
+                "lon": 126.2793,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:37:00Z"
+            },
+            {
+                "lat": 37.333355714285716,
+                "lon": 126.2831,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:36:00Z"
+            },
+            {
+                "lat": 37.33370857142857,
+                "lon": 126.2869,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:35:00Z"
+            },
+            {
+                "lat": 37.33406142857143,
+                "lon": 126.2907,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:34:00Z"
+            },
+            {
+                "lat": 37.33441428571429,
+                "lon": 126.2945,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:33:00Z"
+            },
+            {
+                "lat": 37.334767142857146,
+                "lon": 126.2983,
+                "speed": 10.4,
+                "course": 276,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:32:00Z"
+            },
+            {
+                "lat": 37.33512,
+                "lon": 126.3021,
+                "speed": 10.4,
+                "course": 276,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665855060,
+                "last_position_UTC": "2022-10-15T17:31:00Z"
+            },
+            {
+                "lat": 37.33596318181815,
+                "lon": 126.30830909090899,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:28:00Z"
+            },
+            {
+                "lat": 37.33638477272724,
+                "lon": 126.31141363636354,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:27:00Z"
+            },
+            {
+                "lat": 37.336806363636335,
+                "lon": 126.31451818181809,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:26:00Z"
+            },
+            {
+                "lat": 37.337227954545426,
+                "lon": 126.31762272727264,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:25:00Z"
+            },
+            {
+                "lat": 37.33764954545452,
+                "lon": 126.32072727272718,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:24:00Z"
+            },
+            {
+                "lat": 37.33807113636361,
+                "lon": 126.32383181818173,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:23:00Z"
+            },
+            {
+                "lat": 37.3384927272727,
+                "lon": 126.32693636363628,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:22:00Z"
+            },
+            {
+                "lat": 37.33891431818179,
+                "lon": 126.33004090909083,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:21:00Z"
+            },
+            {
+                "lat": 37.339335909090885,
+                "lon": 126.33314545454537,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:20:00Z"
+            },
+            {
+                "lat": 37.339757499999976,
+                "lon": 126.33624999999992,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:19:00Z"
+            },
+            {
+                "lat": 37.34017909090907,
+                "lon": 126.33935454545447,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:18:00Z"
+            },
+            {
+                "lat": 37.34060068181816,
+                "lon": 126.34245909090902,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:17:00Z"
+            },
+            {
+                "lat": 37.34102227272725,
+                "lon": 126.34556363636356,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:16:00Z"
+            },
+            {
+                "lat": 37.34144386363634,
+                "lon": 126.34866818181811,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:15:00Z"
+            },
+            {
+                "lat": 37.341865454545434,
+                "lon": 126.35177272727266,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:14:00Z"
+            },
+            {
+                "lat": 37.342287045454526,
+                "lon": 126.35487727272721,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:13:00Z"
+            },
+            {
+                "lat": 37.34270863636362,
+                "lon": 126.35798181818176,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:12:00Z"
+            },
+            {
+                "lat": 37.34313022727271,
+                "lon": 126.3610863636363,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:11:00Z"
+            },
+            {
+                "lat": 37.3435518181818,
+                "lon": 126.36419090909085,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:10:00Z"
+            },
+            {
+                "lat": 37.34397340909089,
+                "lon": 126.3672954545454,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:09:00Z"
+            },
+            {
+                "lat": 37.344394999999984,
+                "lon": 126.37039999999995,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:08:00Z"
+            },
+            {
+                "lat": 37.344816590909076,
+                "lon": 126.3735045454545,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:07:00Z"
+            },
+            {
+                "lat": 37.34523818181817,
+                "lon": 126.37660909090904,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:06:00Z"
+            },
+            {
+                "lat": 37.34565977272726,
+                "lon": 126.37971363636359,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:05:00Z"
+            },
+            {
+                "lat": 37.34608136363635,
+                "lon": 126.38281818181814,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:04:00Z"
+            },
+            {
+                "lat": 37.34650295454544,
+                "lon": 126.38592272727269,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:03:00Z"
+            },
+            {
+                "lat": 37.346924545454534,
+                "lon": 126.38902727272723,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:02:00Z"
+            },
+            {
+                "lat": 37.347346136363626,
+                "lon": 126.39213181818178,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:01:00Z"
+            },
+            {
+                "lat": 37.34776772727272,
+                "lon": 126.39523636363633,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T17:00:00Z"
+            },
+            {
+                "lat": 37.34818931818181,
+                "lon": 126.39834090909088,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:59:00Z"
+            },
+            {
+                "lat": 37.3486109090909,
+                "lon": 126.40144545454542,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:58:00Z"
+            },
+            {
+                "lat": 37.34903249999999,
+                "lon": 126.40454999999997,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:57:00Z"
+            },
+            {
+                "lat": 37.349454090909084,
+                "lon": 126.40765454545452,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:56:00Z"
+            },
+            {
+                "lat": 37.349875681818176,
+                "lon": 126.41075909090907,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:55:00Z"
+            },
+            {
+                "lat": 37.35029727272727,
+                "lon": 126.41386363636362,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:54:00Z"
+            },
+            {
+                "lat": 37.35071886363636,
+                "lon": 126.41696818181816,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:53:00Z"
+            },
+            {
+                "lat": 37.35114045454545,
+                "lon": 126.42007272727271,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:52:00Z"
+            },
+            {
+                "lat": 37.35156204545454,
+                "lon": 126.42317727272726,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:51:00Z"
+            },
+            {
+                "lat": 37.351983636363634,
+                "lon": 126.4262818181818,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:50:00Z"
+            },
+            {
+                "lat": 37.352405227272726,
+                "lon": 126.42938636363635,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:49:00Z"
+            },
+            {
+                "lat": 37.35282681818182,
+                "lon": 126.4324909090909,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:48:00Z"
+            },
+            {
+                "lat": 37.35324840909091,
+                "lon": 126.43559545454545,
+                "speed": 11.4,
+                "course": 240,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:47:00Z"
+            },
+            {
+                "lat": 37.35367,
+                "lon": 126.4387,
+                "speed": 11.4,
+                "course": 240,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665852360,
+                "last_position_UTC": "2022-10-15T16:46:00Z"
+            },
+            {
+                "lat": 37.35516971014498,
+                "lon": 126.44099275362277,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:44:00Z"
+            },
+            {
+                "lat": 37.356669420289904,
+                "lon": 126.44328550724596,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:43:00Z"
+            },
+            {
+                "lat": 37.35816913043483,
+                "lon": 126.44557826086915,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:42:00Z"
+            },
+            {
+                "lat": 37.35966884057976,
+                "lon": 126.44787101449235,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:41:00Z"
+            },
+            {
+                "lat": 37.361168550724685,
+                "lon": 126.45016376811554,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:40:00Z"
+            },
+            {
+                "lat": 37.36266826086961,
+                "lon": 126.45245652173874,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:39:00Z"
+            },
+            {
+                "lat": 37.36416797101454,
+                "lon": 126.45474927536193,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:38:00Z"
+            },
+            {
+                "lat": 37.365667681159465,
+                "lon": 126.45704202898513,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:37:00Z"
+            },
+            {
+                "lat": 37.36716739130439,
+                "lon": 126.45933478260832,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:36:00Z"
+            },
+            {
+                "lat": 37.36866710144932,
+                "lon": 126.46162753623152,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:35:00Z"
+            },
+            {
+                "lat": 37.370166811594245,
+                "lon": 126.46392028985471,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:34:00Z"
+            },
+            {
+                "lat": 37.37166652173917,
+                "lon": 126.46621304347791,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:33:00Z"
+            },
+            {
+                "lat": 37.3731662318841,
+                "lon": 126.4685057971011,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:32:00Z"
+            },
+            {
+                "lat": 37.374665942029026,
+                "lon": 126.4707985507243,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:31:00Z"
+            },
+            {
+                "lat": 37.37616565217395,
+                "lon": 126.47309130434749,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:30:00Z"
+            },
+            {
+                "lat": 37.37766536231888,
+                "lon": 126.47538405797069,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:29:00Z"
+            },
+            {
+                "lat": 37.379165072463806,
+                "lon": 126.47767681159388,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:28:00Z"
+            },
+            {
+                "lat": 37.38066478260873,
+                "lon": 126.47996956521708,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:27:00Z"
+            },
+            {
+                "lat": 37.38216449275366,
+                "lon": 126.48226231884027,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:26:00Z"
+            },
+            {
+                "lat": 37.383664202898586,
+                "lon": 126.48455507246346,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:25:00Z"
+            },
+            {
+                "lat": 37.38516391304351,
+                "lon": 126.48684782608666,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:24:00Z"
+            },
+            {
+                "lat": 37.38666362318844,
+                "lon": 126.48914057970985,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:23:00Z"
+            },
+            {
+                "lat": 37.38816333333337,
+                "lon": 126.49143333333305,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:22:00Z"
+            },
+            {
+                "lat": 37.38966304347829,
+                "lon": 126.49372608695624,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:21:00Z"
+            },
+            {
+                "lat": 37.39116275362322,
+                "lon": 126.49601884057944,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:20:00Z"
+            },
+            {
+                "lat": 37.39266246376815,
+                "lon": 126.49831159420263,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:19:00Z"
+            },
+            {
+                "lat": 37.394162173913074,
+                "lon": 126.50060434782583,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:18:00Z"
+            },
+            {
+                "lat": 37.395661884058,
+                "lon": 126.50289710144902,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:17:00Z"
+            },
+            {
+                "lat": 37.39716159420293,
+                "lon": 126.50518985507222,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:16:00Z"
+            },
+            {
+                "lat": 37.398661304347854,
+                "lon": 126.50748260869541,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:15:00Z"
+            },
+            {
+                "lat": 37.40016101449278,
+                "lon": 126.5097753623186,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:14:00Z"
+            },
+            {
+                "lat": 37.40166072463771,
+                "lon": 126.5120681159418,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:13:00Z"
+            },
+            {
+                "lat": 37.403160434782635,
+                "lon": 126.514360869565,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:12:00Z"
+            },
+            {
+                "lat": 37.40466014492756,
+                "lon": 126.51665362318819,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:11:00Z"
+            },
+            {
+                "lat": 37.40615985507249,
+                "lon": 126.51894637681139,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:10:00Z"
+            },
+            {
+                "lat": 37.407659565217415,
+                "lon": 126.52123913043458,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:09:00Z"
+            },
+            {
+                "lat": 37.40915927536234,
+                "lon": 126.52353188405777,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:08:00Z"
+            },
+            {
+                "lat": 37.41065898550727,
+                "lon": 126.52582463768097,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:07:00Z"
+            },
+            {
+                "lat": 37.412158695652195,
+                "lon": 126.52811739130416,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:06:00Z"
+            },
+            {
+                "lat": 37.41365840579712,
+                "lon": 126.53041014492736,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:05:00Z"
+            },
+            {
+                "lat": 37.41515811594205,
+                "lon": 126.53270289855055,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:04:00Z"
+            },
+            {
+                "lat": 37.416657826086976,
+                "lon": 126.53499565217375,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:03:00Z"
+            },
+            {
+                "lat": 37.4181575362319,
+                "lon": 126.53728840579694,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:02:00Z"
+            },
+            {
+                "lat": 37.41965724637683,
+                "lon": 126.53958115942014,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:01:00Z"
+            },
+            {
+                "lat": 37.421156956521756,
+                "lon": 126.54187391304333,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T16:00:00Z"
+            },
+            {
+                "lat": 37.42265666666668,
+                "lon": 126.54416666666653,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:59:00Z"
+            },
+            {
+                "lat": 37.42415637681161,
+                "lon": 126.54645942028972,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:58:00Z"
+            },
+            {
+                "lat": 37.425656086956536,
+                "lon": 126.54875217391292,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:57:00Z"
+            },
+            {
+                "lat": 37.42715579710146,
+                "lon": 126.55104492753611,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:56:00Z"
+            },
+            {
+                "lat": 37.42865550724639,
+                "lon": 126.5533376811593,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:55:00Z"
+            },
+            {
+                "lat": 37.43015521739132,
+                "lon": 126.5556304347825,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:54:00Z"
+            },
+            {
+                "lat": 37.43165492753624,
+                "lon": 126.5579231884057,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:53:00Z"
+            },
+            {
+                "lat": 37.43315463768117,
+                "lon": 126.56021594202889,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:52:00Z"
+            },
+            {
+                "lat": 37.4346543478261,
+                "lon": 126.56250869565208,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:51:00Z"
+            },
+            {
+                "lat": 37.436154057971024,
+                "lon": 126.56480144927528,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:50:00Z"
+            },
+            {
+                "lat": 37.43765376811595,
+                "lon": 126.56709420289847,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:49:00Z"
+            },
+            {
+                "lat": 37.43915347826088,
+                "lon": 126.56938695652167,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:48:00Z"
+            },
+            {
+                "lat": 37.440653188405804,
+                "lon": 126.57167971014486,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:47:00Z"
+            },
+            {
+                "lat": 37.44215289855073,
+                "lon": 126.57397246376806,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:46:00Z"
+            },
+            {
+                "lat": 37.44365260869566,
+                "lon": 126.57626521739125,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:45:00Z"
+            },
+            {
+                "lat": 37.445152318840584,
+                "lon": 126.57855797101445,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:44:00Z"
+            },
+            {
+                "lat": 37.44665202898551,
+                "lon": 126.58085072463764,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:43:00Z"
+            },
+            {
+                "lat": 37.44815173913044,
+                "lon": 126.58314347826084,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:42:00Z"
+            },
+            {
+                "lat": 37.449651449275365,
+                "lon": 126.58543623188403,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:41:00Z"
+            },
+            {
+                "lat": 37.45115115942029,
+                "lon": 126.58772898550723,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:40:00Z"
+            },
+            {
+                "lat": 37.45265086956522,
+                "lon": 126.59002173913042,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:39:00Z"
+            },
+            {
+                "lat": 37.454150579710145,
+                "lon": 126.59231449275362,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:38:00Z"
+            },
+            {
+                "lat": 37.45565028985507,
+                "lon": 126.59460724637681,
+                "speed": 0.1,
+                "course": 230.57852751981085,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:37:00Z"
+            },
+            {
+                "lat": 37.45715,
+                "lon": 126.5969,
+                "speed": 0,
+                "course": 49,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665848160,
+                "last_position_UTC": "2022-10-15T15:36:00Z"
+            },
+            {
+                "lat": 37.45715000000009,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:35:00Z"
+            },
+            {
+                "lat": 37.457149677419444,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:34:00Z"
+            },
+            {
+                "lat": 37.4571493548388,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:33:00Z"
+            },
+            {
+                "lat": 37.45714903225815,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:32:00Z"
+            },
+            {
+                "lat": 37.457148709677504,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:31:00Z"
+            },
+            {
+                "lat": 37.45714838709686,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:30:00Z"
+            },
+            {
+                "lat": 37.45714806451621,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:29:00Z"
+            },
+            {
+                "lat": 37.457147741935565,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:28:00Z"
+            },
+            {
+                "lat": 37.45714741935492,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:27:00Z"
+            },
+            {
+                "lat": 37.45714709677427,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:26:00Z"
+            },
+            {
+                "lat": 37.457146774193625,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:25:00Z"
+            },
+            {
+                "lat": 37.45714645161298,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:24:00Z"
+            },
+            {
+                "lat": 37.45714612903233,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:23:00Z"
+            },
+            {
+                "lat": 37.457145806451685,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:22:00Z"
+            },
+            {
+                "lat": 37.45714548387104,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:21:00Z"
+            },
+            {
+                "lat": 37.45714516129039,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:20:00Z"
+            },
+            {
+                "lat": 37.457144838709745,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:19:00Z"
+            },
+            {
+                "lat": 37.4571445161291,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:18:00Z"
+            },
+            {
+                "lat": 37.45714419354845,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:17:00Z"
+            },
+            {
+                "lat": 37.457143870967805,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:16:00Z"
+            },
+            {
+                "lat": 37.45714354838716,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:15:00Z"
+            },
+            {
+                "lat": 37.45714322580651,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:14:00Z"
+            },
+            {
+                "lat": 37.457142903225865,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:13:00Z"
+            },
+            {
+                "lat": 37.45714258064522,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:12:00Z"
+            },
+            {
+                "lat": 37.45714225806457,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:11:00Z"
+            },
+            {
+                "lat": 37.457141935483925,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:10:00Z"
+            },
+            {
+                "lat": 37.45714161290328,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:09:00Z"
+            },
+            {
+                "lat": 37.45714129032263,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:08:00Z"
+            },
+            {
+                "lat": 37.457140967741985,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:07:00Z"
+            },
+            {
+                "lat": 37.45714064516134,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:06:00Z"
+            },
+            {
+                "lat": 37.45714032258069,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:05:00Z"
+            },
+            {
+                "lat": 37.457140000000045,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:04:00Z"
+            },
+            {
+                "lat": 37.4571396774194,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:03:00Z"
+            },
+            {
+                "lat": 37.45713935483875,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:02:00Z"
+            },
+            {
+                "lat": 37.457139032258105,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:01:00Z"
+            },
+            {
+                "lat": 37.45713870967746,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T15:00:00Z"
+            },
+            {
+                "lat": 37.45713838709681,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:59:00Z"
+            },
+            {
+                "lat": 37.457138064516165,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:58:00Z"
+            },
+            {
+                "lat": 37.45713774193552,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:57:00Z"
+            },
+            {
+                "lat": 37.45713741935487,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:56:00Z"
+            },
+            {
+                "lat": 37.457137096774225,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:55:00Z"
+            },
+            {
+                "lat": 37.45713677419358,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:54:00Z"
+            },
+            {
+                "lat": 37.45713645161293,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:53:00Z"
+            },
+            {
+                "lat": 37.457136129032286,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:52:00Z"
+            },
+            {
+                "lat": 37.45713580645164,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:51:00Z"
+            },
+            {
+                "lat": 37.45713548387099,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:50:00Z"
+            },
+            {
+                "lat": 37.457135161290346,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:49:00Z"
+            },
+            {
+                "lat": 37.4571348387097,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:48:00Z"
+            },
+            {
+                "lat": 37.45713451612905,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:47:00Z"
+            },
+            {
+                "lat": 37.457134193548406,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:46:00Z"
+            },
+            {
+                "lat": 37.45713387096776,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:45:00Z"
+            },
+            {
+                "lat": 37.45713354838711,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:44:00Z"
+            },
+            {
+                "lat": 37.457133225806466,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:43:00Z"
+            },
+            {
+                "lat": 37.45713290322582,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:42:00Z"
+            },
+            {
+                "lat": 37.45713258064517,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:41:00Z"
+            },
+            {
+                "lat": 37.457132258064526,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:40:00Z"
+            },
+            {
+                "lat": 37.45713193548388,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:39:00Z"
+            },
+            {
+                "lat": 37.45713161290323,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:38:00Z"
+            },
+            {
+                "lat": 37.457131290322586,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:37:00Z"
+            },
+            {
+                "lat": 37.45713096774194,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:36:00Z"
+            },
+            {
+                "lat": 37.45713064516129,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:35:00Z"
+            },
+            {
+                "lat": 37.457130322580646,
+                "lon": 126.5969,
+                "speed": 0.0,
+                "course": 0.0,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T14:34:00Z"
+            },
+            {
+                "lat": 37.45713,
+                "lon": 126.5969,
+                "speed": 0,
+                "course": 49,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665844380,
+                "last_position_UTC": "2022-10-15T14:33:00Z"
+            },
+            {
+                "lat": 37.45713,
+                "lon": 126.5969,
+                "speed": 0,
+                "course": 49,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665840960,
+                "last_position_UTC": "2022-10-15T13:36:00Z"
+            },
+            {
+                "lat": 37.45713,
+                "lon": 126.5969,
+                "speed": 0,
+                "course": 49,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665837360,
+                "last_position_UTC": "2022-10-15T12:36:00Z"
+            },
+            {
+                "lat": 37.45427000000008,
+                "lon": 126.59430000000002,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:32:00Z"
+            },
+            {
+                "lat": 37.453316666666744,
+                "lon": 126.59343333333335,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:31:00Z"
+            },
+            {
+                "lat": 37.45236333333341,
+                "lon": 126.59256666666668,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:30:00Z"
+            },
+            {
+                "lat": 37.451410000000074,
+                "lon": 126.59170000000002,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:29:00Z"
+            },
+            {
+                "lat": 37.45045666666674,
+                "lon": 126.59083333333335,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:28:00Z"
+            },
+            {
+                "lat": 37.4495033333334,
+                "lon": 126.58996666666668,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:27:00Z"
+            },
+            {
+                "lat": 37.44855000000007,
+                "lon": 126.58910000000002,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:26:00Z"
+            },
+            {
+                "lat": 37.44759666666673,
+                "lon": 126.58823333333335,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:25:00Z"
+            },
+            {
+                "lat": 37.4466433333334,
+                "lon": 126.58736666666668,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:24:00Z"
+            },
+            {
+                "lat": 37.44569000000006,
+                "lon": 126.58650000000002,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:23:00Z"
+            },
+            {
+                "lat": 37.44473666666673,
+                "lon": 126.58563333333335,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:22:00Z"
+            },
+            {
+                "lat": 37.44378333333339,
+                "lon": 126.58476666666668,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:21:00Z"
+            },
+            {
+                "lat": 37.44283000000006,
+                "lon": 126.58390000000001,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:20:00Z"
+            },
+            {
+                "lat": 37.44187666666672,
+                "lon": 126.58303333333335,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:19:00Z"
+            },
+            {
+                "lat": 37.44092333333339,
+                "lon": 126.58216666666668,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:18:00Z"
+            },
+            {
+                "lat": 37.43997000000005,
+                "lon": 126.58130000000001,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:17:00Z"
+            },
+            {
+                "lat": 37.43901666666672,
+                "lon": 126.58043333333335,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:16:00Z"
+            },
+            {
+                "lat": 37.43806333333338,
+                "lon": 126.57956666666668,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:15:00Z"
+            },
+            {
+                "lat": 37.43711000000005,
+                "lon": 126.57870000000001,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:14:00Z"
+            },
+            {
+                "lat": 37.43615666666671,
+                "lon": 126.57783333333334,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:13:00Z"
+            },
+            {
+                "lat": 37.43520333333338,
+                "lon": 126.57696666666668,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:12:00Z"
+            },
+            {
+                "lat": 37.43425000000004,
+                "lon": 126.57610000000001,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:11:00Z"
+            },
+            {
+                "lat": 37.433296666666706,
+                "lon": 126.57523333333334,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:10:00Z"
+            },
+            {
+                "lat": 37.43234333333337,
+                "lon": 126.57436666666668,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:09:00Z"
+            },
+            {
+                "lat": 37.431390000000036,
+                "lon": 126.57350000000001,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:08:00Z"
+            },
+            {
+                "lat": 37.4304366666667,
+                "lon": 126.57263333333334,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:07:00Z"
+            },
+            {
+                "lat": 37.429483333333366,
+                "lon": 126.57176666666668,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:06:00Z"
+            },
+            {
+                "lat": 37.42853000000003,
+                "lon": 126.57090000000001,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:05:00Z"
+            },
+            {
+                "lat": 37.427576666666695,
+                "lon": 126.57003333333334,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:04:00Z"
+            },
+            {
+                "lat": 37.42662333333336,
+                "lon": 126.56916666666667,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:03:00Z"
+            },
+            {
+                "lat": 37.425670000000025,
+                "lon": 126.56830000000001,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:02:00Z"
+            },
+            {
+                "lat": 37.42471666666669,
+                "lon": 126.56743333333334,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:01:00Z"
+            },
+            {
+                "lat": 37.423763333333355,
+                "lon": 126.56656666666667,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T12:00:00Z"
+            },
+            {
+                "lat": 37.42281000000002,
+                "lon": 126.5657,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:59:00Z"
+            },
+            {
+                "lat": 37.421856666666685,
+                "lon": 126.56483333333334,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:58:00Z"
+            },
+            {
+                "lat": 37.42090333333335,
+                "lon": 126.56396666666667,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:57:00Z"
+            },
+            {
+                "lat": 37.419950000000014,
+                "lon": 126.5631,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:56:00Z"
+            },
+            {
+                "lat": 37.41899666666668,
+                "lon": 126.56223333333334,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:55:00Z"
+            },
+            {
+                "lat": 37.418043333333344,
+                "lon": 126.56136666666667,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:54:00Z"
+            },
+            {
+                "lat": 37.41709000000001,
+                "lon": 126.5605,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:53:00Z"
+            },
+            {
+                "lat": 37.416136666666674,
+                "lon": 126.55963333333334,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:52:00Z"
+            },
+            {
+                "lat": 37.41518333333334,
+                "lon": 126.55876666666667,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:51:00Z"
+            },
+            {
+                "lat": 37.41423,
+                "lon": 126.5579,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:50:00Z"
+            },
+            {
+                "lat": 37.41327666666667,
+                "lon": 126.55703333333334,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:49:00Z"
+            },
+            {
+                "lat": 37.41232333333333,
+                "lon": 126.55616666666667,
+                "speed": 10.3,
+                "course": 46,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:48:00Z"
+            },
+            {
+                "lat": 37.41137,
+                "lon": 126.5553,
+                "speed": 10.3,
+                "course": 46,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665834420,
+                "last_position_UTC": "2022-10-15T11:47:00Z"
+            },
+            {
+                "lat": 37.40998672727281,
+                "lon": 126.55152545454555,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:45:00Z"
+            },
+            {
+                "lat": 37.408603454545535,
+                "lon": 126.54775090909101,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:44:00Z"
+            },
+            {
+                "lat": 37.40722018181826,
+                "lon": 126.54397636363646,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:43:00Z"
+            },
+            {
+                "lat": 37.405836909090986,
+                "lon": 126.54020181818191,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:42:00Z"
+            },
+            {
+                "lat": 37.40445363636371,
+                "lon": 126.53642727272737,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:41:00Z"
+            },
+            {
+                "lat": 37.40307036363644,
+                "lon": 126.53265272727282,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:40:00Z"
+            },
+            {
+                "lat": 37.401687090909164,
+                "lon": 126.52887818181827,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:39:00Z"
+            },
+            {
+                "lat": 37.40030381818189,
+                "lon": 126.52510363636372,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:38:00Z"
+            },
+            {
+                "lat": 37.398920545454615,
+                "lon": 126.52132909090918,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:37:00Z"
+            },
+            {
+                "lat": 37.39753727272734,
+                "lon": 126.51755454545463,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:36:00Z"
+            },
+            {
+                "lat": 37.39615400000007,
+                "lon": 126.51378000000008,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:35:00Z"
+            },
+            {
+                "lat": 37.39477072727279,
+                "lon": 126.51000545454554,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:34:00Z"
+            },
+            {
+                "lat": 37.39338745454552,
+                "lon": 126.50623090909099,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:33:00Z"
+            },
+            {
+                "lat": 37.392004181818244,
+                "lon": 126.50245636363644,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:32:00Z"
+            },
+            {
+                "lat": 37.39062090909097,
+                "lon": 126.4986818181819,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:31:00Z"
+            },
+            {
+                "lat": 37.389237636363696,
+                "lon": 126.49490727272735,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:30:00Z"
+            },
+            {
+                "lat": 37.38785436363642,
+                "lon": 126.4911327272728,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:29:00Z"
+            },
+            {
+                "lat": 37.38647109090915,
+                "lon": 126.48735818181825,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:28:00Z"
+            },
+            {
+                "lat": 37.38508781818187,
+                "lon": 126.4835836363637,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:27:00Z"
+            },
+            {
+                "lat": 37.3837045454546,
+                "lon": 126.47980909090916,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:26:00Z"
+            },
+            {
+                "lat": 37.382321272727324,
+                "lon": 126.47603454545461,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:25:00Z"
+            },
+            {
+                "lat": 37.38093800000005,
+                "lon": 126.47226000000006,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:24:00Z"
+            },
+            {
+                "lat": 37.379554727272776,
+                "lon": 126.46848545454552,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:23:00Z"
+            },
+            {
+                "lat": 37.3781714545455,
+                "lon": 126.46471090909097,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:22:00Z"
+            },
+            {
+                "lat": 37.37678818181823,
+                "lon": 126.46093636363642,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:21:00Z"
+            },
+            {
+                "lat": 37.37540490909095,
+                "lon": 126.45716181818187,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:20:00Z"
+            },
+            {
+                "lat": 37.37402163636368,
+                "lon": 126.45338727272733,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:19:00Z"
+            },
+            {
+                "lat": 37.372638363636405,
+                "lon": 126.44961272727278,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:18:00Z"
+            },
+            {
+                "lat": 37.37125509090913,
+                "lon": 126.44583818181823,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:17:00Z"
+            },
+            {
+                "lat": 37.369871818181856,
+                "lon": 126.44206363636368,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:16:00Z"
+            },
+            {
+                "lat": 37.36848854545458,
+                "lon": 126.43828909090914,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:15:00Z"
+            },
+            {
+                "lat": 37.36710527272731,
+                "lon": 126.43451454545459,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:14:00Z"
+            },
+            {
+                "lat": 37.365722000000034,
+                "lon": 126.43074000000004,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:13:00Z"
+            },
+            {
+                "lat": 37.36433872727276,
+                "lon": 126.4269654545455,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:12:00Z"
+            },
+            {
+                "lat": 37.362955454545485,
+                "lon": 126.42319090909095,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:11:00Z"
+            },
+            {
+                "lat": 37.36157218181821,
+                "lon": 126.4194163636364,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:10:00Z"
+            },
+            {
+                "lat": 37.36018890909094,
+                "lon": 126.41564181818185,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:09:00Z"
+            },
+            {
+                "lat": 37.35880563636366,
+                "lon": 126.4118672727273,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:08:00Z"
+            },
+            {
+                "lat": 37.35742236363639,
+                "lon": 126.40809272727276,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:07:00Z"
+            },
+            {
+                "lat": 37.356039090909114,
+                "lon": 126.40431818181821,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:06:00Z"
+            },
+            {
+                "lat": 37.35465581818184,
+                "lon": 126.40054363636366,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:05:00Z"
+            },
+            {
+                "lat": 37.353272545454566,
+                "lon": 126.39676909090912,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:04:00Z"
+            },
+            {
+                "lat": 37.35188927272729,
+                "lon": 126.39299454545457,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:03:00Z"
+            },
+            {
+                "lat": 37.35050600000002,
+                "lon": 126.38922000000002,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:02:00Z"
+            },
+            {
+                "lat": 37.34912272727274,
+                "lon": 126.38544545454548,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:01:00Z"
+            },
+            {
+                "lat": 37.34773945454547,
+                "lon": 126.38167090909093,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T11:00:00Z"
+            },
+            {
+                "lat": 37.346356181818194,
+                "lon": 126.37789636363638,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:59:00Z"
+            },
+            {
+                "lat": 37.34497290909092,
+                "lon": 126.37412181818183,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:58:00Z"
+            },
+            {
+                "lat": 37.343589636363646,
+                "lon": 126.37034727272729,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:57:00Z"
+            },
+            {
+                "lat": 37.34220636363637,
+                "lon": 126.36657272727274,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:56:00Z"
+            },
+            {
+                "lat": 37.3408230909091,
+                "lon": 126.36279818181819,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:55:00Z"
+            },
+            {
+                "lat": 37.33943981818182,
+                "lon": 126.35902363636364,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:54:00Z"
+            },
+            {
+                "lat": 37.33805654545455,
+                "lon": 126.3552490909091,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:53:00Z"
+            },
+            {
+                "lat": 37.336673272727275,
+                "lon": 126.35147454545455,
+                "speed": 10.5,
+                "course": 80,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:52:00Z"
+            },
+            {
+                "lat": 37.33529,
+                "lon": 126.3477,
+                "speed": 10.5,
+                "course": 80,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665831060,
+                "last_position_UTC": "2022-10-15T10:51:00Z"
+            },
+            {
+                "lat": 37.334713157894626,
+                "lon": 126.34038631578898,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:48:00Z"
+            },
+            {
+                "lat": 37.334424736841996,
+                "lon": 126.33672947368372,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:47:00Z"
+            },
+            {
+                "lat": 37.334136315789365,
+                "lon": 126.33307263157846,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:46:00Z"
+            },
+            {
+                "lat": 37.333847894736735,
+                "lon": 126.3294157894732,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:45:00Z"
+            },
+            {
+                "lat": 37.333559473684105,
+                "lon": 126.32575894736794,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:44:00Z"
+            },
+            {
+                "lat": 37.333271052631474,
+                "lon": 126.32210210526269,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:43:00Z"
+            },
+            {
+                "lat": 37.332982631578844,
+                "lon": 126.31844526315743,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:42:00Z"
+            },
+            {
+                "lat": 37.33269421052621,
+                "lon": 126.31478842105217,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:41:00Z"
+            },
+            {
+                "lat": 37.33240578947358,
+                "lon": 126.31113157894691,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:40:00Z"
+            },
+            {
+                "lat": 37.33211736842095,
+                "lon": 126.30747473684166,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:39:00Z"
+            },
+            {
+                "lat": 37.33182894736832,
+                "lon": 126.3038178947364,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:38:00Z"
+            },
+            {
+                "lat": 37.33154052631569,
+                "lon": 126.30016105263114,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:37:00Z"
+            },
+            {
+                "lat": 37.33125210526306,
+                "lon": 126.29650421052588,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:36:00Z"
+            },
+            {
+                "lat": 37.33096368421043,
+                "lon": 126.29284736842062,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:35:00Z"
+            },
+            {
+                "lat": 37.3306752631578,
+                "lon": 126.28919052631537,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:34:00Z"
+            },
+            {
+                "lat": 37.33038684210517,
+                "lon": 126.28553368421011,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:33:00Z"
+            },
+            {
+                "lat": 37.33009842105254,
+                "lon": 126.28187684210485,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:32:00Z"
+            },
+            {
+                "lat": 37.32980999999991,
+                "lon": 126.27821999999959,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:31:00Z"
+            },
+            {
+                "lat": 37.32952157894728,
+                "lon": 126.27456315789433,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:30:00Z"
+            },
+            {
+                "lat": 37.32923315789465,
+                "lon": 126.27090631578908,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:29:00Z"
+            },
+            {
+                "lat": 37.32894473684202,
+                "lon": 126.26724947368382,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:28:00Z"
+            },
+            {
+                "lat": 37.32865631578939,
+                "lon": 126.26359263157856,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:27:00Z"
+            },
+            {
+                "lat": 37.32836789473676,
+                "lon": 126.2599357894733,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:26:00Z"
+            },
+            {
+                "lat": 37.32807947368413,
+                "lon": 126.25627894736805,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:25:00Z"
+            },
+            {
+                "lat": 37.3277910526315,
+                "lon": 126.25262210526279,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:24:00Z"
+            },
+            {
+                "lat": 37.32750263157887,
+                "lon": 126.24896526315753,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:23:00Z"
+            },
+            {
+                "lat": 37.327214210526236,
+                "lon": 126.24530842105227,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:22:00Z"
+            },
+            {
+                "lat": 37.326925789473606,
+                "lon": 126.24165157894701,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:21:00Z"
+            },
+            {
+                "lat": 37.326637368420975,
+                "lon": 126.23799473684176,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:20:00Z"
+            },
+            {
+                "lat": 37.326348947368345,
+                "lon": 126.2343378947365,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:19:00Z"
+            },
+            {
+                "lat": 37.326060526315715,
+                "lon": 126.23068105263124,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:18:00Z"
+            },
+            {
+                "lat": 37.325772105263084,
+                "lon": 126.22702421052598,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:17:00Z"
+            },
+            {
+                "lat": 37.325483684210454,
+                "lon": 126.22336736842072,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:16:00Z"
+            },
+            {
+                "lat": 37.32519526315782,
+                "lon": 126.21971052631547,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:15:00Z"
+            },
+            {
+                "lat": 37.32490684210519,
+                "lon": 126.21605368421021,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:14:00Z"
+            },
+            {
+                "lat": 37.32461842105256,
+                "lon": 126.21239684210495,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:13:00Z"
+            },
+            {
+                "lat": 37.32432999999993,
+                "lon": 126.2087399999997,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:12:00Z"
+            },
+            {
+                "lat": 37.3240415789473,
+                "lon": 126.20508315789444,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:11:00Z"
+            },
+            {
+                "lat": 37.32375315789467,
+                "lon": 126.20142631578918,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:10:00Z"
+            },
+            {
+                "lat": 37.32346473684204,
+                "lon": 126.19776947368392,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:09:00Z"
+            },
+            {
+                "lat": 37.32317631578941,
+                "lon": 126.19411263157866,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:08:00Z"
+            },
+            {
+                "lat": 37.32288789473678,
+                "lon": 126.1904557894734,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:07:00Z"
+            },
+            {
+                "lat": 37.32259947368415,
+                "lon": 126.18679894736815,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:06:00Z"
+            },
+            {
+                "lat": 37.32231105263152,
+                "lon": 126.18314210526289,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:05:00Z"
+            },
+            {
+                "lat": 37.32202263157889,
+                "lon": 126.17948526315763,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:04:00Z"
+            },
+            {
+                "lat": 37.32173421052626,
+                "lon": 126.17582842105237,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:03:00Z"
+            },
+            {
+                "lat": 37.32144578947363,
+                "lon": 126.17217157894711,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:02:00Z"
+            },
+            {
+                "lat": 37.321157368421,
+                "lon": 126.16851473684186,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:01:00Z"
+            },
+            {
+                "lat": 37.32086894736837,
+                "lon": 126.1648578947366,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T10:00:00Z"
+            },
+            {
+                "lat": 37.32058052631574,
+                "lon": 126.16120105263134,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:59:00Z"
+            },
+            {
+                "lat": 37.32029210526311,
+                "lon": 126.15754421052608,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:58:00Z"
+            },
+            {
+                "lat": 37.32000368421048,
+                "lon": 126.15388736842083,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:57:00Z"
+            },
+            {
+                "lat": 37.319715263157846,
+                "lon": 126.15023052631557,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:56:00Z"
+            },
+            {
+                "lat": 37.319426842105216,
+                "lon": 126.14657368421031,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:55:00Z"
+            },
+            {
+                "lat": 37.319138421052585,
+                "lon": 126.14291684210505,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:54:00Z"
+            },
+            {
+                "lat": 37.318849999999955,
+                "lon": 126.1392599999998,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:53:00Z"
+            },
+            {
+                "lat": 37.318561578947325,
+                "lon": 126.13560315789454,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:52:00Z"
+            },
+            {
+                "lat": 37.318273157894694,
+                "lon": 126.13194631578928,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:51:00Z"
+            },
+            {
+                "lat": 37.317984736842064,
+                "lon": 126.12828947368402,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:50:00Z"
+            },
+            {
+                "lat": 37.31769631578943,
+                "lon": 126.12463263157876,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:49:00Z"
+            },
+            {
+                "lat": 37.3174078947368,
+                "lon": 126.1209757894735,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:48:00Z"
+            },
+            {
+                "lat": 37.31711947368417,
+                "lon": 126.11731894736825,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:47:00Z"
+            },
+            {
+                "lat": 37.31683105263154,
+                "lon": 126.11366210526299,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:46:00Z"
+            },
+            {
+                "lat": 37.31654263157891,
+                "lon": 126.11000526315773,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:45:00Z"
+            },
+            {
+                "lat": 37.31625421052628,
+                "lon": 126.10634842105247,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:44:00Z"
+            },
+            {
+                "lat": 37.31596578947365,
+                "lon": 126.10269157894722,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:43:00Z"
+            },
+            {
+                "lat": 37.31567736842102,
+                "lon": 126.09903473684196,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:42:00Z"
+            },
+            {
+                "lat": 37.31538894736839,
+                "lon": 126.0953778947367,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:41:00Z"
+            },
+            {
+                "lat": 37.31510052631576,
+                "lon": 126.09172105263144,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:40:00Z"
+            },
+            {
+                "lat": 37.31481210526313,
+                "lon": 126.08806421052618,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:39:00Z"
+            },
+            {
+                "lat": 37.3145236842105,
+                "lon": 126.08440736842093,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:38:00Z"
+            },
+            {
+                "lat": 37.31423526315787,
+                "lon": 126.08075052631567,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:37:00Z"
+            },
+            {
+                "lat": 37.31394684210524,
+                "lon": 126.07709368421041,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:36:00Z"
+            },
+            {
+                "lat": 37.31365842105261,
+                "lon": 126.07343684210515,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:35:00Z"
+            },
+            {
+                "lat": 37.31336999999998,
+                "lon": 126.0697799999999,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:34:00Z"
+            },
+            {
+                "lat": 37.31308157894735,
+                "lon": 126.06612315789464,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:33:00Z"
+            },
+            {
+                "lat": 37.31279315789472,
+                "lon": 126.06246631578938,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:32:00Z"
+            },
+            {
+                "lat": 37.31250473684209,
+                "lon": 126.05880947368412,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:31:00Z"
+            },
+            {
+                "lat": 37.312216315789456,
+                "lon": 126.05515263157886,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:30:00Z"
+            },
+            {
+                "lat": 37.311927894736826,
+                "lon": 126.0514957894736,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:29:00Z"
+            },
+            {
+                "lat": 37.311639473684195,
+                "lon": 126.04783894736835,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:28:00Z"
+            },
+            {
+                "lat": 37.311351052631565,
+                "lon": 126.04418210526309,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:27:00Z"
+            },
+            {
+                "lat": 37.311062631578935,
+                "lon": 126.04052526315783,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:26:00Z"
+            },
+            {
+                "lat": 37.310774210526304,
+                "lon": 126.03686842105257,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:25:00Z"
+            },
+            {
+                "lat": 37.310485789473674,
+                "lon": 126.03321157894732,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:24:00Z"
+            },
+            {
+                "lat": 37.31019736842104,
+                "lon": 126.02955473684206,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:23:00Z"
+            },
+            {
+                "lat": 37.30990894736841,
+                "lon": 126.0258978947368,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:22:00Z"
+            },
+            {
+                "lat": 37.30962052631578,
+                "lon": 126.02224105263154,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:21:00Z"
+            },
+            {
+                "lat": 37.30933210526315,
+                "lon": 126.01858421052629,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:20:00Z"
+            },
+            {
+                "lat": 37.30904368421052,
+                "lon": 126.01492736842103,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:19:00Z"
+            },
+            {
+                "lat": 37.30875526315789,
+                "lon": 126.01127052631577,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:18:00Z"
+            },
+            {
+                "lat": 37.30846684210526,
+                "lon": 126.00761368421051,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:17:00Z"
+            },
+            {
+                "lat": 37.30817842105263,
+                "lon": 126.00395684210525,
+                "speed": 12.5,
+                "course": 87,
+                "heading": "null",
+                "destination": "null",
+                "last_position_epoch": "null",
+                "last_position_UTC": "2022-10-15T09:16:00Z"
+            },
+            {
+                "lat": 37.30789,
+                "lon": 126.0003,
+                "speed": 12.5,
+                "course": 87,
+                "heading": null,
+                "destination": "",
+                "last_position_epoch": 1665825300,
+                "last_position_UTC": "2022-10-15T09:15:00Z"
+            }
+        ]
+    },
+    "meta": {
+        "duration": 0.00211529,
+        "endpoint": "/api/v0/vessel_history",
+        "success": true
+    }
+}
